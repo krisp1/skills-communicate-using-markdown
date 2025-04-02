@@ -11,3 +11,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello World!";
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
